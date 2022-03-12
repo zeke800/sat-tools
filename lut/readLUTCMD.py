@@ -40,7 +40,7 @@ pixelslut = lut.load()
 for x, y in itertools.product(range(xsize), range(ysize)):
     pixels2[x,y] = int((255 * cProbability[pixels2[x,y]])) # (L-1) * cummulative probability
 """
-#Now, process the LUT
+#Now, process the LUT and put pixels
 
 outimg = Image.new('RGB', (xsize, ysize))
 #print(xsize,ysize)

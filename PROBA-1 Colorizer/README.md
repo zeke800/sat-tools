@@ -1,11 +1,11 @@
 This script colors PROBA-1 SWAP images. Usage:
 
 ``` shell
-python probacolorizer.py sun.png sunout.png -y
+python probacolorizer.py sunin.png sunout.png -y
 ```
 for the 'realistic' mode and 
 ``` shell
-python probacolorizer.py sun.png sunout.png -n
+python probacolorizer.py sunin.png sunout.png -n
 ```
 for the regular mode. 
 The script requires PIL to be installed. 

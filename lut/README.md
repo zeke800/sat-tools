@@ -1,11 +1,7 @@
 This is a LUT applier. Usage:
 
+
 ``` shell
-python probacolorizer.py sun.png sunout.png -y
+python LUTCMD.py ch1.png ch2.png LUT.png out.png -y
 ```
-for the 'realistic' mode and 
-``` shell
-python probacolorizer.py sun.png sunout.png -n
-```
-for the regular mode. 
 Requires PIL to be installed. 

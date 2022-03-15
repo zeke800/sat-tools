@@ -20,5 +20,5 @@ Example output with the -y flag:
 
 And a comparison of NASA's SOHO data - original vs recovered
 
-![thumbnail]https://raw.githubusercontent.com/zeke800/sat-tools/main/PROBA-1%20Colorizer/comparison.png?raw=true)
+![thumbnail](https://raw.githubusercontent.com/zeke800/sat-tools/main/PROBA-1%20Colorizer/comparison.png?raw=true)
 

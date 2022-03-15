@@ -1,4 +1,4 @@
-This colors PROBA images. Usage:
+This script colors PROBA-1 SWAP images. Usage:
 
 ``` shell
 python probacolorizer.py sun.png sunout.png -y
@@ -8,4 +8,12 @@ for the 'realistic' mode and
 python probacolorizer.py sun.png sunout.png -n
 ```
 for the regular mode. 
-Requires PIL to be installed. 
+The script requires PIL to be installed. 
+
+Example input:
+
+![thumbnail](https://raw.githubusercontent.com/zeke800/sat-tools/main/PROBA-1%20Colorizer/sun.png?raw=true)
+
+Example output with the -y flag:
+
+![thumbnail](https://raw.githubusercontent.com/zeke800/sat-tools/main/PROBA-1%20Colorizer/sunout.png?raw=true)
